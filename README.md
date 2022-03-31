@@ -1,6 +1,6 @@
 # PROJECT-1 BASIC DOCKERIZED APPLICATIONS
 
-###PROJECT DESCRIPTION
+### PROJECT DESCRIPTION
 
 In this project i have created custom docker images for different applicaitons including flutter, php, nodejs, reactjs, flask
 
